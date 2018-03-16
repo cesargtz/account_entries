@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+        <record model="res.groups" id="group_account_move_buttons">
+            <field name="name">Contabilidad/EntradasDiaro/Consulta</field>
+        </record>
+</odoo>

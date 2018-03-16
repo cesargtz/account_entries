@@ -28,8 +28,8 @@
 
     # always loaded
     'data': [
-        # 'security/ir.model.access.csv',
-    'views/account_entries.xml',
+        'security/account_move_buttons_access.xml',
+        'views/account_entries.xml',
     ],
     # only loaded in demonstration mode
     'demo': [
